@@ -1,2 +1,6 @@
 # Corporations-Project
-test
+
+1.) Установка
+2.) Инструкция
+
+<strong>Установка</strong>
