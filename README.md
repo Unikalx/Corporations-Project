@@ -79,8 +79,9 @@ http://joxi.ru/E2p3PDDhBjMDpm
 <p>
 	Что бы добавить Главною корпорацию нажмите на кнопку &quot;Добавить&quot; в верхнем левом углу</p>
 <p>
-http://joxi.ru/GrqlPDDUNbdDWA
+
 	Перерасчёт суммы дочерних корпораций происходит автоматически</p>
+	http://joxi.ru/GrqlPDDUNbdDWA
 <p>
 	Есть меню, с помощю которой можно переходить по главным корпорациями</p>
 	http://joxi.ru/MAjdPDDTvYKDbm
