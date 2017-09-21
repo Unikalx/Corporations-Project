@@ -37,7 +37,7 @@
 http://joxi.ru/YmEgQddfZLz7xA
  
 <p>
-	4.) Открываем server.js ищем функцию connectionsDB() и прописываем подключения к базе данных, лично я подключился к локальной базе Open Server</p>
+	4.) Открываем server.js ищем функцию connectionsDB() и прописываем подключения к базе данных, лично я подключился к локальной базе Open Server и Экспортируем corporationDB в базу данных</p>
 http://joxi.ru/4AkLPDDUMVELVr
 <p>
 	Вот ресурсы:</p>
@@ -47,8 +47,7 @@ http://joxi.ru/4AkLPDDUMVELVr
 	https://www.npmjs.com/package/mysql</p>
 <p>
 	https://www.w3schools.com/nodejs/nodejs_mysql.asp</p>
-<p>
-	5.) Экспортим corporationDB в базу данных</p>
+
 <p>
 	6.) Запускаем файл server.js через node.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;$ node server.js</p>
 	http://joxi.ru/bmoRPeeTMlv1Gr
