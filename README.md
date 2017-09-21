@@ -49,7 +49,7 @@ http://joxi.ru/4AkLPDDUMVELVr
 	https://www.w3schools.com/nodejs/nodejs_mysql.asp</p>
 
 <p>
-	6.) Запускаем файл server.js через node.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;$ node server.js</p>
+	5.) Запускаем файл server.js через node.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;$ node server.js</p>
 	http://joxi.ru/bmoRPeeTMlv1Gr
 <p>
 	Если есть подключеник к базе должно все заработать.</p>
