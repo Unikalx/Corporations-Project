@@ -38,6 +38,7 @@ http://joxi.ru/YmEgQddfZLz7xA
  
 <p>
 	4.) Открываем server.js ищем функцию connectionsDB() и прописываем подключения к базе данных, лично я подключился к локальной базе Open Server</p>
+http://joxi.ru/4AkLPDDUMVELVr
 <p>
 	Вот ресурсы:</p>
 <p>
@@ -50,5 +51,9 @@ http://joxi.ru/YmEgQddfZLz7xA
 	5.) Экспортим corporationDB в базу данных</p>
 <p>
 	6.) Запускаем файл server.js через node.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;$ node server.js</p>
+	http://joxi.ru/bmoRPeeTMlv1Gr
 <p>
 	Если есть подключеник к базе должно все заработать.</p>
+	http://joxi.ru/krDgVWWf0dz9bA
+<p style="text-align: center;">
+	<span style="font-size:16px;"><strong>Инструкция</strong></span></p>
