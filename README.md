@@ -34,7 +34,7 @@
 	<li>
 		npm install path &nbsp;--save</li>
 </ul>
-image:: http://joxi.ru/YmEgQddfZLz7xA    :height: 100px    :width: 200 px    :scale: 50 %
+ http://joxi.ru/YmEgQddfZLz7xA
 <p>
 	4.) Открываем server.js ищем функцию connectionsDB() и прописываем подключения к базе данных, лично я подключился к локальной базе Open Server</p>
 <p>
