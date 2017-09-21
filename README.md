@@ -9,7 +9,7 @@
 <p style="text-align: center;">
 	<span style="font-size:16px;"><strong>Установка</strong></span></p>
 <p>
-	1.) Скачиваем репозиторийи распаковываем.</p>
+	1.) Скачиваем репозиторий и распаковываем.</p>
 <p>
 	2.) Устанавливаем node.js&nbsp;</p>
 <p>
