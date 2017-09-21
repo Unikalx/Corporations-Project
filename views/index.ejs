@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Corporation</title>
+    <link rel="stylesheet" href="style/style.css">
+    <script src="js/libs/jquery-3.2.1.min.js"></script>
+</head>
+<body>
+<div class="menu" >
+    <img menu src="img/menu.png">
+    <div class="menuShow">
+        <h3>MENU</h3>
+        <%- menu %>
+
+    </div>
+</div>
+<script>
+    $('.menuShow a').click(function () {
+        let $id = $(this).attr('href').substr(1)
+        $('#' + $id + '').addClass('illumination')
+        setTimeout(function () {
+            $('#' + $id + '').removeClass('illumination')
+        },1400)
+
+    });
+</script>
+<a class="add_corporation" id="0" onclick="insertModal($(this))">Добавить</a>
+<div class="main">
+    <%- content %>
+</div>
+<script src="js/main.js"></script>
+<div id="editModal" corporationId="" style="display:none;">
+    <div class="overlay"></div>
+    <div class="visible">
+        <div class="close" onclick="editModal(null)"><img src="img/close.png"></div>
+        <div class="modal_name">
+            <p><strong>Имя</strong></p>
+            <input value="">
+        </div>
+        <div class="modal_price">
+            <p><strong>Прибыль</strong></p>
+            <input min="0" max="9999" type="number" value="">
+        </div>
+        <button onclick="editCorporation($(this).parents('#editModal'))">Изменить</button>
+    </div>
+</div>
+<div id="insertModal" corporationInsertId="0" style="display:none;">
+    <div class="overlay"></div>
+    <div class="visible">
+        <div class="close" onclick="insertModal(null)"><img src="img/close.png"></div>
+        <div class="modal_name">
+            <p><strong>Имя</strong></p>
+            <input value="">
+        </div>
+        <div class="modal_price">
+            <p><strong>Прибыль</strong></p>
+            <input min="0" max="9999" type="number" value="">
+        </div>
+        <button onclick="insertCorporation($(this).parents('#insertModal'))">Добавить</button>
+    </div>
+</div>
+</body>
+</html>
