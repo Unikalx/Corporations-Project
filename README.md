@@ -22,18 +22,9 @@
 	https://learn.javascript.ru/ajax-nodejs</p>
 <p>
 	3.) Устанавливаем все модули к node.js:</p>
-<ul>
-	<li>
-		npm install express --save</li>
-	<li>
-		npm install body-parser &nbsp;--save</li>
-	<li>
-		npm install mysql &nbsp;--save</li>
-	<li>
-		npm install ejs &nbsp;--save</li>
-	<li>
-		npm install path &nbsp;--save</li>
-</ul>
+```
+npm install
+```
 http://joxi.ru/YmEgQddfZLz7xA
  
 <p>
