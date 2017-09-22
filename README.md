@@ -27,7 +27,7 @@
 npm install
 </code>
 </pre>
-http://joxi.ru/YmEgQddfZLz7xA
+http://joxi.ru/KAg5lDDsgOxpom
  
 <p>
 	4.) Открываем server.js ищем функцию connectionsDB() и прописываем подключения к базе данных, лично я подключился к локальной базе Open Server и Экспортируем corporationDB в базу данных</p>
