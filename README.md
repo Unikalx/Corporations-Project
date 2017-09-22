@@ -47,8 +47,6 @@ http://joxi.ru/4AkLPDDUMVELVr
 	
 	
 	
-	7.) Запускаем файл server.js через node.js
-	
 	
 <pre><code>node server.js
 npm run start
