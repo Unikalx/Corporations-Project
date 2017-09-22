@@ -22,9 +22,11 @@
 	https://learn.javascript.ru/ajax-nodejs</p>
 <p>
 	3.) Устанавливаем все модули к node.js:</p>
-```
+<pre>
+<code>
 npm install
-```
+</code>
+</pre>
 http://joxi.ru/YmEgQddfZLz7xA
  
 <p>
