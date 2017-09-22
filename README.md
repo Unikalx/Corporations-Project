@@ -48,15 +48,14 @@ http://joxi.ru/4AkLPDDUMVELVr
 	
 	<p>Вот ресуср:</p>
 	
+	http://dev-mark.blogspot.com/2012/11/ubuntu-mysql.html
 	
-	http://dev-mark.blogspot.com/2012/11/ubuntu-mysql.html<p>
-	5.) Запускаем файл server.js через node.js </p>
-	<pre>
-<code>
-node server.js
+	<p>5.) Запускаем файл server.js через node.js </p>
+	
+	
+<pre><code>node server.js
 npm run start
-</code>
-</pre>
+</code></pre>
 
 <p>
 	Если есть подключеник к базе должно все заработать.</p>
