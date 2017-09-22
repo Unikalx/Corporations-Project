@@ -29,10 +29,12 @@ npm install
 </pre>
  
  <p>4.) Устонавливаем MSQL</p>
+ 
  <p>Вот ресурс:</p>
+ 
  https://losst.ru/ustanovka-mysql-ubuntu-16-04
-<p>
-	5.) Открываем server.js ищем функцию connectionsDB() и прописываем подключения к базе данных, лично я подключился к локальной базе Open Server</p>
+ 
+<p>5.) Открываем server.js ищем функцию connectionsDB() и прописываем подключения к базе данных, лично я подключился к локальной базе Open Server</p>
 http://joxi.ru/4AkLPDDUMVELVr
 <p>
 	Вот ресурсы:</p>
