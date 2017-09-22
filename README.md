@@ -6,8 +6,7 @@
 	<li>
 		Инструкция</li>
 </ul>
-<p style="text-align: center;">
-	<span style="font-size:16px;"><strong>Установка</strong></span></p>
+<h3><strong>Установка</strong></h3>
 <p>
 	1.) Скачиваем репозиторий и распаковываем.</p>
 <p>
@@ -53,9 +52,8 @@ npm run start
 <p>
 	Если есть подключеник к базе должно все заработать.</p>
 	http://joxi.ru/krDgVWWf0dz9bA
-	
-<p style="text-align: center;">
-	<span style="font-size:16px;"><strong>Инструкция</strong></span></p>
+<h3><strong>Инструкция</strong></h3>	
+
 	
 	
 <p>
