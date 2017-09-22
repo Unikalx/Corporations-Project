@@ -43,14 +43,16 @@ http://joxi.ru/4AkLPDDUMVELVr
 <p>
 	https://www.npmjs.com/package/mysql</p>
 <p>
-	https://www.w3schools.com/nodejs/nodejs_mysql.asp</p><p> 6.) Экспортируем corporationDB в базу данных </p>
+	https://www.w3schools.com/nodejs/nodejs_mysql.asp</p>
+	 6.) Экспортируем corporationDB в базу данных 
 	
 	
-	<p>Вот ресуср:</p>
+	Вот ресуср:
 	
 	http://dev-mark.blogspot.com/2012/11/ubuntu-mysql.html
 	
-	<p>5.) Запускаем файл server.js через node.js </p>
+	
+	7.) Запускаем файл server.js через node.js
 	
 	
 <pre><code>node server.js
@@ -93,6 +95,7 @@ http://joxi.ru/GrqlPDDUNbdDWA
 	http://joxi.ru/MAjdPDDTvYKDbm
 	
 <h2>Вот рабочий вариант приложения</h2>
-http://18.221.161.133:8080/corporation
+http://18.221.1
+1.133:8080/corporation
 	
 <!--<p>Для более удобного скрола используйте комбинацию shift + колесико мышки</p>
