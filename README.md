@@ -45,13 +45,8 @@ http://joxi.ru/4AkLPDDUMVELVr
 <p>
 	https://www.w3schools.com/nodejs/nodejs_mysql.asp</p>
 	
-	<p> 6.) Экспортируем corporationDB в базу данных </p>
 	
 	
-	<p>Вот ресуср:</p>
-	
-	
-	http://dev-mark.blogspot.com/2012/11/ubuntu-mysql.html
 
 <p>
 	5.) Запускаем файл server.js через node.js </p>
