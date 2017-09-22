@@ -10,8 +10,8 @@
 <hr>
 <h4>
 	1.) Скачиваем репозиторий и распаковываем.</h4>
-<p>
-	2.) Устанавливаем node.js&nbsp;</p>
+<h4>
+	2.) Устанавливаем node.js&nbsp;</h4>
 <p>
 	Я не буду объяснять как это делать ведь уже все рассказали до меня</p>
 <p>
@@ -20,21 +20,21 @@
 	https://nodejs.org/uk/</p>
 <p>
 	https://learn.javascript.ru/ajax-nodejs</p>
-<p>
-	3.) Устанавливаем все модули к node.js:</p>
+<h4>
+	3.) Устанавливаем все модули к node.js:</h4>
 <pre>
 <code>
 npm install
 </code>
 </pre>
  
- <p>4.) Устонавливаем MSQL</p>
+ <h4>4.) Устонавливаем MSQL</h4>
  
  <p>Вот ресурс:</p>
  
  https://losst.ru/ustanovka-mysql-ubuntu-16-04
  
-<p>5.) Открываем server.js ищем функцию connectionsDB() и прописываем подключения к базе данных, лично я подключился к локальной базе Open Server</p>
+<h4>5.) Открываем server.js ищем функцию connectionsDB() и прописываем подключения к базе данных, лично я подключился к локальной базе Open Server</h4>
 http://joxi.ru/4AkLPDDUMVELVr
 <p>Вот ресурсы:</p>
 <p>https://www.digitalocean.com/community/tutorials/how-to-import-and-export-databases-and-reset-a-root-password-in-mysql</p>
@@ -42,10 +42,10 @@ http://joxi.ru/4AkLPDDUMVELVr
 <p>https://www.w3schools.com/nodejs/nodejs_mysql.asp</p>
 	
 	 
-<p>6.) Экспортируем corporationDB в базу данных</p> 
+<h4>6.) Экспортируем corporationDB в базу данных</h4> 
 <p>Вот ресуср:</p>
 <p>http://dev-mark.blogspot.com/2012/11/ubuntu-mysql.html</p>
-<p>7.) Запускаем файл server.js через node.js</p>
+<h4>7.) Запускаем файл server.js через node.js</h4>
 	
 	
 <pre><code>node server.js
