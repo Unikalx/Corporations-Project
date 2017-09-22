@@ -52,7 +52,6 @@ npm run start
 	http://joxi.ru/bmoRPeeTMlv1Gr
 <p>
 	Если есть подключеник к базе должно все заработать.</p>
-	http://joxi.ru/krDgVWWf0dz9bA
 <h3><strong>Инструкция</strong></h3>	
 <hr>
 
