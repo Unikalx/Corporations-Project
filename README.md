@@ -28,17 +28,24 @@ npm install
 </code>
 </pre>
  
+ <p>4.) Устонавливаем MSQL</p>
+ Вот ресурс:
+ https://losst.ru/ustanovka-mysql-ubuntu-16-04
 <p>
-	4.) Открываем server.js ищем функцию connectionsDB() и прописываем подключения к базе данных, лично я подключился к локальной базе Open Server и Экспортируем corporationDB в базу данных</p>
+	5.) Открываем server.js ищем функцию connectionsDB() и прописываем подключения к базе данных, лично я подключился к локальной базе Open Server</p>
 http://joxi.ru/4AkLPDDUMVELVr
 <p>
 	Вот ресурсы:</p>
 <p>
-	https://ospanel.io/download/</p>
+	https://www.digitalocean.com/community/tutorials/how-to-import-and-export-databases-and-reset-a-root-password-in-mysql</p>
 <p>
 	https://www.npmjs.com/package/mysql</p>
 <p>
 	https://www.w3schools.com/nodejs/nodejs_mysql.asp</p>
+	
+	<p>6.) Экспортируем corporationDB в базу данных</p>
+	Вот ресуср:
+	http://dev-mark.blogspot.com/2012/11/ubuntu-mysql.html
 
 <p>
 	5.) Запускаем файл server.js через node.js </p>
