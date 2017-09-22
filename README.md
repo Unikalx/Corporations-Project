@@ -85,6 +85,6 @@ http://joxi.ru/GrqlPDDUNbdDWA
 	http://joxi.ru/MAjdPDDTvYKDbm
 	
 <h2>Вот рабочий вариант приложения</h2>
-
-	http://18.221.161.133:8080/corporation
+[http://18.221.161.133:8080/corporation](http://18.221.161.133:8080/corporation)
+	
 <!--<p>Для более удобного скрола используйте комбинацию shift + колесико мышки</p>
