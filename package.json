@@ -1,0 +1,31 @@
+{
+  "name": "corporation",
+  "version": "1.0.0",
+  "description": "simple node js app",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "mysql": "^2.14.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unikalx/Corporations-Project.git"
+  },
+  "keywords": [
+    "corporations"
+  ],
+  "author": "Unikal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unikalx/Corporations-Project/issues"
+  },
+  "homepage": "https://github.com/Unikalx/Corporations-Project#readme"
+}
