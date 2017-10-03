@@ -87,13 +87,13 @@ body {
 .tree li:only-child {
     padding-top: 0;
 }
-.tree li:first-child::before, .tree li:last-child::after {
-    border-right: none;
-}
+
 .tree li:first-child::before, .tree li:last-child::after {
     border: 0 none;
 }
-
+.tree li:last-child.mainLi::before {
+    border-right: none;
+}
 .tree li:last-child::before {
     border-right: 2px solid #ccc;
     border-radius: 0 5px 0 0;
