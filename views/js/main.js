@@ -79,10 +79,10 @@ function insertCorporation($this) {
                 let $this = $('#' + id + '');
                 if (id == 0) {
                     if ($('.first').find('li').length > 0) {
-                        content += '<li>' + renderBranch(date, price, name) + '</li>';
+                        content += '<li class="mainLi">' + renderBranch(date, price, name) + '</li>';
                         $('.first').append(content);
                     } else {
-                        content += '<ul class="first"><li>' + renderBranch(date, price, name) + '</li></ul>';
+                        content += '<ul class="first"><li class="mainLi">' + renderBranch(date, price, name) + '</li></ul>';
                         $('.tree').append(content);
                     }
                 } else {
