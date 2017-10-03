@@ -61,7 +61,7 @@ body {
 }
 
 .tree li.mainLi::before, .tree li.mainLi::after {
-    border-top: none;
+      border: 0 none;
 }
 .tree li::before, .tree li::after {
     content: '';
@@ -74,7 +74,7 @@ body {
 }
 
 .tree li.mainLi::after {
-    border-left: none;
+      border: 0 none;
 }
 .tree li::after {
     right: auto;
@@ -93,7 +93,9 @@ body {
 .tree li:first-child::before, .tree li:last-child::after {
     border: 0 none;
 }
-
+.tree li:last-child.mainLi::before {
+  border: 0 none;
+    }
 .tree li:last-child::before {
     border-right: 2px solid #ccc;
     border-radius: 0 5px 0 0;
