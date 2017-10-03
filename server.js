@@ -220,7 +220,7 @@ function buildTree(childArray, parent_id) {
                 (parent_id == 0) ? content += '<ul class="first">' : content += '<ul>';
 
                 childObj.clildren.forEach(child => {
-                    content += '<li>';
+                    (parent_id == 0) ? content += '<li class="mainLi">' : content += '<li>';
                     content += renderBranch(child['id'], child['income'], child['name']);
                     content += buildTree(childArray, child['id']);
                     content += '</li>';
