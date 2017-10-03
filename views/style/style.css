@@ -59,7 +59,9 @@ body {
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
 }
-
+.tree li.mainLi::before, .tree li.mainLi::after {
+    border-top: none;
+}
 .tree li::before, .tree li::after {
     content: '';
     position: absolute;
@@ -69,7 +71,9 @@ body {
     width: 50%;
     height: 20px;
 }
-
+.tree li.mainLi::after {
+    border-left: none;
+}
 .tree li::after {
     right: auto;
     left: 50%;
@@ -83,7 +87,9 @@ body {
 .tree li:only-child {
     padding-top: 0;
 }
-
+.tree li:first-child::before, .tree li:last-child::after {
+    border-right: none;
+}
 .tree li:first-child::before, .tree li:last-child::after {
     border: 0 none;
 }
