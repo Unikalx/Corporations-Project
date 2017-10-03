@@ -59,6 +59,7 @@ body {
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
 }
+
 .tree li.mainLi::before, .tree li.mainLi::after {
     border-top: none;
 }
@@ -71,6 +72,7 @@ body {
     width: 50%;
     height: 20px;
 }
+
 .tree li.mainLi::after {
     border-left: none;
 }
@@ -91,9 +93,7 @@ body {
 .tree li:first-child::before, .tree li:last-child::after {
     border: 0 none;
 }
-.tree li:last-child.mainLi::before {
-    border-right: none;
-}
+
 .tree li:last-child::before {
     border-right: 2px solid #ccc;
     border-radius: 0 5px 0 0;
